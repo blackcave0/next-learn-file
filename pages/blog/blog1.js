@@ -1,7 +1,11 @@
+import Navbar from "@/components/Navbar"
 
 const blog1 = () => {
   return (
-    <div>blog1</div>
+    <>
+      <Navbar/>
+      <h1>blog1</h1>
+    </>
   )
 }
 

@@ -8,3 +8,10 @@ creating own custome 404 Error Page and how to use
 *..challenge..1*  > Link Error Page with Home Page using Link Component.
 *..challenge..2* > Link Error Page with Home Page using Button 
 Import {useRouter} from next/router 
+
+# [*]-------------------DAY 3 ------------------
+**Understanding Components** : Create the [components] folder in root directory
+> Global Css(External Css) :-> ;
+*Component Based Css* :> Next.js support Css modules using the [name].module.css file naming convention,...
+Creating css file for saperate file like index.js file for [index.module.css]
+If we have multiple classname for one element the we use templete literal exmple : [className={`${styles.main} ${geistSans.variable} ${geistMono.variable}`}]

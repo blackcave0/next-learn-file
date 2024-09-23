@@ -1,8 +1,12 @@
+import Navbar from '@/components/Navbar'
 import React from 'react'
 
 const blog2 = () => {
   return (
-    <div>blog2</div>
+    <>
+      <Navbar/>
+      <div>blog2</div>
+    </>
   )
 }
 
