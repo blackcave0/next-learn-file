@@ -38,6 +38,7 @@ export default function Home() {
           <ol>
             <li>
               Get started by editing <code>pages/index.js</code>.
+              <h1>welcome to my page </h1>
             </li>
             <li>Save and see your changes instantly.</li>
           </ol>
