@@ -15,3 +15,9 @@ Import {useRouter} from next/router
 *Component Based Css* :> Next.js support Css modules using the [name].module.css file naming convention,...
 Creating css file for saperate file like index.js file for [index.module.css]
 If we have multiple classname for one element the we use templete literal exmple : [className={`${styles.main} ${geistSans.variable} ${geistMono.variable}`}]
+
+# [*]-------------------DAY 4 ------------------
+**Image Component and Optimization** : > Make sure all images in [public] folder
+-> First import Image component from next/image
+**Head Component** :> Used to add metadata to your page, such as the title, description, and keywords. 
+**Rest API** :> `getStaticProps` and `getServerSideProps` and `getStaticPaths`
